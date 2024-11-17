@@ -1,0 +1,43 @@
+/* body {
+    background-color: #007bff; /
+} */
+
+.containerD {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+.cardd-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-gap: 20px;
+}
+
+.cardd {
+    background-color: #ffffff; 
+    color: #000000 !important; 
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.cardd h3 {
+    margin-top: 0;
+}
+
+.cardd p {
+    margin-bottom: 10px;
+}
+
+button {
+    margin-top: 10px;
+}
+
+.star-rating {
+    color: #ffc107 !important; 
+}

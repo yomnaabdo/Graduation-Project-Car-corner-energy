@@ -1,0 +1,109 @@
+.container-add-stations {
+    width: 100%;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color:#f9f9f9;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .place-form .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .place-form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .place-form input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  
+  .place-form button {
+    width: 100%;
+    padding: 10px;
+    background-color: var(--color-darker);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    
+  }
+  
+  .place-form button:hover {
+    background-color: var(--color-primary);
+  }
+  
+  .form-group .map-container {
+    margin-top: 10px;
+  }
+  /* for edit and delete stations  */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  button {
+    padding: 5px 10px;
+    margin-right: 5px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  button.edit {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  button.delete {
+    background-color: #f44336;
+    color: white;
+  }
+  
+  button.save {
+    background-color: #008CBA;
+    color: white;
+  }
+  
+  button.cancel {
+    background-color: #f0ad4e;
+    color: white;
+  }
+  
+  input {
+    padding: 5px;
+    margin: 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  

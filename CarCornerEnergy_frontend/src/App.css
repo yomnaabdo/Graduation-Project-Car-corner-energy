@@ -1,0 +1,20 @@
+:root{
+
+    --color-dark: #14213D;
+    --color-darker: #000000;
+    --color-light:#E4E4E4;
+    --color-lighter:#FFFFFF;
+    --color-primary:#FCA311;
+    --color-bg-dark:#212529;
+    --color-bg-body: var(--color-darker);
+
+
+    --distance-primary: 50px;
+    --pading-primary: var(--distance-primary);
+    --margin-primary: var(--distance-primary);
+    --border-radius-primary: calc(var(--distance-primary)/2);
+}
+
+body{
+    background-color: var(--color-bg-body);
+}

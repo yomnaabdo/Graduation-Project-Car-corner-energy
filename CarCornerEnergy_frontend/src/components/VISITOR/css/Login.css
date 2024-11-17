@@ -1,0 +1,7 @@
+.vh-100{
+    margin-top: 50px;
+    margin-bottom: 300px;
+}
+body{
+    background-color: var(--color-bg-body);
+}

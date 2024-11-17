@@ -1,0 +1,53 @@
+body {
+    background-color: #ededed !important;
+    background-image: none !important;
+  
+  }
+  
+  .about-us-container {
+    max-height: 700px;
+  
+      margin-top: 10% !important;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #f5f5f5; /* Light gray background */
+      color: #333; /* Dark gray text color */
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow */
+      text-align: left;
+    }
+    
+    .about-us-content {
+      display: flex;
+      align-items: center;
+      margin-top: 20px;
+    }
+    
+    .icon-about {
+  font-size: 80px;
+      margin-right: 20px;
+    }
+    
+    .about-us-content p {
+      font-size: 16px;
+      line-height: 1.6;
+      font-family: cursive;
+    
+    }
+    
+    .about-us-content p:first-child {
+      margin-top: 0;
+    }
+  .about_bg{
+  opacity: 0.9;
+     background-image: url('./30def5a5-56e4-4f12-9ac0-75026713c6ea.jpg');
+     background-size:cover;
+     height: 625px; ;
+    overflow: hidden;
+    
+    }
+    h2{
+  font-size: 30px;
+  
+    }

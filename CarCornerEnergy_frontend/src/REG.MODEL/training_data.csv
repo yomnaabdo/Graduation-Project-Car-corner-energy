@@ -1,0 +1,43 @@
+drive_type,Make,Model,battery_cap,distance,energy_consumption,perm_gross_weight,power
+4WD,Audi,e-tron 55 quattro,95.0,388,24.45,3130.0,360
+4WD,Audi,e-tron 50 quattro,71.0,376,23.8,3040.0,313
+4WD,Audi,e-tron S quattro,95.0,500,27.55,3130.0,503
+4WD,Audi,e-tron Sportback 50 quattro,71.0,371,23.3,3040.0,313
+4WD,Audi,e-tron Sportback 55 quattro,95.0,377,23.85,3130.0,360
+4WD,Audi,e-tron Sportback S quattro,95.0,480,27.2,3130.0,503
+2WD (rear),BMW,i3,42.2,265,13.1,1730.0,170
+2WD (rear),BMW,i3s,42.2,277,14.3,1730.0,184
+2WD (rear),BMW,iX3,80.0,340,18.8,2725.0,286
+2WD (front),DS,DS3 Crossback e-tense,50.0,291,15.6,1975.0,136
+2WD (rear),Honda,e,35.5,318,17.2,1855.0,136
+2WD (rear),Honda,e Advance,35.5,320,17.5,1870.0,154
+2WD (front),Hyundai,Ioniq electric,38.3,270,13.8,1970.0,136
+2WD (front),Hyundai,Kona electric 39.2kWh,39.2,283,15.0,2020.0,136
+2WD (front),Hyundai,Kona electric 64kWh,64.0,287,15.4,2170.0,204
+4WD,Jaguar,I-Pace,90.0,360,21.2,2670.0,400
+2WD (front),Kia,e-Niro 39.2kWh,39.2,285,15.3,2080.0,136
+2WD (front),Kia,e-Niro 64kWh,64.0,295,15.9,2230.0,204
+2WD (front),Kia,e-Soul 39.2kWh,39.2,291,15.6,1682.0,136
+2WD (front),Kia,e-Soul 64kWh,64.0,293,15.7,1682.0,204
+2WD (front),Mazda,MX-30,35.5,280,14.5,2119.0,145
+4WD,Mercedes-Benz,EQC,80.0,364,21.85,2940.0,408
+2WD (front),Mini,Cooper SE,28.9,310,16.75,1770.0,184
+2WD (front),Nissan,Leaf,40.0,333,18.5,1995.0,150
+2WD (front),Nissan,Leaf e+,62.0,316,17.1,2140.0,217
+2WD (front),Opel,Corsa-e,50.0,308,16.65,1916.0,136
+2WD (front),Opel,Mokka-e,50.0,322,17.6,2015.0,136
+2WD (front),Peugeot,e-208,50.0,303,16.4,1918.0,136
+4WD,Porsche,Taycan 4S (Performance),79.2,372,23.4,2880.0,435
+4WD,Porsche,Taycan 4S (Performance Plus),93.4,383,24.1,2880.0,490
+4WD,Porsche,Taycan Turbo,93.4,400,24.85,2880.0,625
+4WD,Porsche,Taycan Turbo S,93.4,410,25.1,2870.0,625
+2WD (front),Renault,Zoe R110,52.0,305,16.5,1988.0,108
+2WD (front),Renault,Zoe R135,52.0,305,16.5,1988.0,135
+2WD (front),Skoda,Citigo-e iV,36.8,288,15.45,1530.0,83
+2WD (rear),Smart,fortwo EQ,17.6,301,16.35,1310.0,82
+2WD (rear),Smart,forfour EQ,17.6,315,17.0,1570.0,82
+2WD (front),Volkswagen,e-up!,32.3,272,14.0,1530.0,83
+2WD (rear),Volkswagen,ID.3 Pro Performance,58.0,287,15.4,2270.0,204
+2WD (rear),Volkswagen,ID.3 Pro S,77.0,295,15.9,2280.0,204
+2WD (rear),Volkswagen,ID.4 1st,77.0,328,18.0,2660.0,204
+2WD (front),Citroen,Citroen-Spacetourer (M),50.0,420,25.2,2810.0,136
